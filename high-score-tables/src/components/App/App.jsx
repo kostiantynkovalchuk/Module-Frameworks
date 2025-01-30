@@ -1,5 +1,5 @@
-import HighScoreTable from "./components/HighScoreTable/HighScoreTable.jsx";
-import scores from "./data/scores.json";
+import HighScoreTable from "@/components/HighScoreTable/HighScoreTable.jsx";
+import scores from "@/data/scores.json";
 import "./App.scss";
 
 const App = () => (
